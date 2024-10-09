@@ -2,7 +2,7 @@
 
 This repository contains the **Power BI dashboard for HDFC Bank**, providing a detailed analysis of **banking transactions**, **account balances**, **loan amounts**, and **customer credit scores**. The dashboard is designed to offer insights into the bank's performance across different branches, transaction types, and customer demographics.
 
-![ERD Scratch](https://github.com/user-attachments/assets/bf70cc33-b063-44f6-89eb-1c14d2e9a30d)
+![HDFC Bank Dashboard](https://github.com/user-attachments/assets/fce8a486-5c5a-4de3-b9a6-908716d87a4c)
 
 
 ## **Key Features**
